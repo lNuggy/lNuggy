@@ -2,7 +2,7 @@
 # /// Nuggy
 Self-learned developer, open to learn new things! Also a car enthusiast and a BMW Lover. Italy 🇮🇹
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/937285910041591878?bg=170f0c)](https://discord.com/users/937285910041591878)
+<p align="center "[![Discord Presence](https://lanyard.cnrad.dev/api/937285910041591878?bg=170f0c)](https://discord.com/users/937285910041591878)></p>
 
 ---
 
